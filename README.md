@@ -1,4 +1,4 @@
-![Amerike logo](https://www.facebook.com/AmerikeCDMX/)
+![Amerike logo](https://www.facebook.com/photo/?fbid=784351206829632&set=a.546781003919988)
 
 "Universidad Amerike"
 
