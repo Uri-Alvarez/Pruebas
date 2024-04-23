@@ -1,10 +1,10 @@
-#                                       Proyect #1 #
+# Proyect #1 #
 
 Create a binary calculator that allows the user to:
-a) Add binary number
-b) Subtract binary number.
-c) Parse number to binary (the number may be float).
-d) Get the Hex and Octal representation of any float and binary number.
+1. Add binary number
+1. Subtract binary number.
+1. Parse number to binary (the number may be float).
+1. Get the Hex and Octal representation of any float and binary number.
 
 
 
