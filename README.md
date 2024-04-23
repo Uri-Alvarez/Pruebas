@@ -1,4 +1,4 @@
-![Amerike logo](https://www.facebook.com/photo/?fbid=784351206829632&set=a.546781003919988)
+# Proyect #1 #
 
 "Universidad Amerike"
 
@@ -9,3 +9,10 @@ Alvarez López Uri Yael. CDMX2974
 Cibersecurity.
 
 Instructor: Javier Ayala Oropeza
+
+
+Create a binary calculator that allows the user to:
+a) Add binary number
+b) Subtract binary number.
+c) Parse number to binary (the number may be float).
+d) Get the Hex and Octal representation of any float and binary number.
