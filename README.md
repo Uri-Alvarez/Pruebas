@@ -8,7 +8,7 @@ Create a binary calculator that allows the user to:
 
 
 
-"Universidad Amerike"
+**Universidad Amerike**
 
 Object-oriented programming
 
@@ -16,4 +16,4 @@ Alvarez López Uri Yael. CDMX2974
 
 Cibersecurity.
 
-Instructor: Javier Ayala Oropeza
+**Instructor:** Javier Ayala Oropeza
